@@ -1,0 +1,44 @@
+{
+  "inputs": [
+    {
+      "name": "c0",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "c1",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "c2",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "c3",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "c4",
+      "public": true,
+      "type": "field"
+    },
+    {
+      "name": "p",
+      "public": false,
+      "type": "field"
+    },
+    {
+      "name": "q",
+      "public": false,
+      "type": "field"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "field"
+    }
+  ]
+}
